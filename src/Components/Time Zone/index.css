@@ -1,0 +1,29 @@
+.country h1 {
+  font-size: 85px;
+}
+
+.country p {
+  font-size: 80px;
+  margin-top: 50px;
+}
+
+.country {
+  text-align: center;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  border: 2px solid #000;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 10px;
+  margin-top: 50px;
+  color: #000;
+  margin-bottom: 50px;
+}
+
+.countries {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
